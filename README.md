@@ -45,7 +45,7 @@
 
 </div>
 
-# urban
+# bundleid
 
 + Works with MVVM : the logic for the drag and drop can be placed in a ViewModel. No code needs to be placed in code-behind, instead attached properties are used to bind to a drag handler/drop handler in a ViewModel.
 + Works with multiple selections.
