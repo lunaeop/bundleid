@@ -1,7 +1,7 @@
 <div align="center">
 
-  <a href="https://github.com/punker76/gong-wpf-dragdrop">
-    <img alt="gong-wpf-dragdrop" width="700" heigth="142" src="./GongSolutions.Wpf.DragDrop.Full.png">
+  <a href="https://github.com/punker76/urban">
+    <img alt="urban" width="700" heigth="142" src="./GongSolutions.Wpf.DragDrop.Full.png">
   </a>
   <h1>GongSolutions.WPF.DragDrop</h1>
   <p>
@@ -11,41 +11,41 @@
     Supporting .NET Framework 4.5.2+, .NET Core 3.1, .NET 5 and .NET 6 (on Windows)
   </p>
 
-  <a href="https://gitter.im/punker76/gong-wpf-dragdrop">
+  <a href="https://gitter.im/punker76/urban">
 	  <img src="https://img.shields.io/badge/Gitter-Join%20Chat-green.svg?style=flat-square">
   </a>
   <a href="https://twitter.com/punker76">
 	  <img src="https://img.shields.io/badge/twitter-%40punker76-55acee.svg?style=flat-square">
   </a>
   <br />
-  <a href="https://ci.appveyor.com/project/punker76/gong-wpf-dragdrop/branch/main">
-	  <img alt="mainstatus" src="https://img.shields.io/appveyor/ci/punker76/gong-wpf-dragdrop/main.svg?style=flat-square&&label=main">
+  <a href="https://ci.appveyor.com/project/punker76/urban/branch/main">
+	  <img alt="mainstatus" src="https://img.shields.io/appveyor/ci/punker76/urban/main.svg?style=flat-square&&label=main">
   </a>
-  <a href="https://ci.appveyor.com/project/punker76/gong-wpf-dragdrop/branch/develop">
-	  <img alt="devstatus" src="https://img.shields.io/appveyor/ci/punker76/gong-wpf-dragdrop/develop.svg?style=flat-square&&label=develop">
+  <a href="https://ci.appveyor.com/project/punker76/urban/branch/develop">
+	  <img alt="devstatus" src="https://img.shields.io/appveyor/ci/punker76/urban/develop.svg?style=flat-square&&label=develop">
   </a>
-  <a href="https://github.com/punker76/gong-wpf-dragdrop/issues">
-    <img src="https://img.shields.io/github/issues/punker76/gong-wpf-dragdrop.svg?style=flat-square">
+  <a href="https://github.com/punker76/urban/issues">
+    <img src="https://img.shields.io/github/issues/punker76/urban.svg?style=flat-square">
   </a>
   <br />
-  <a href="https://github.com/punker76/gong-wpf-dragdrop/releases/latest">
-	  <img src="https://img.shields.io/github/release/punker76/gong-wpf-dragdrop.svg?style=flat-square">
+  <a href="https://github.com/punker76/urban/releases/latest">
+	  <img src="https://img.shields.io/github/release/punker76/urban.svg?style=flat-square">
   </a>
-  <a href="https://www.nuget.org/packages/gong-wpf-dragdrop">
-    <img src="https://img.shields.io/nuget/dt/gong-wpf-dragdrop.svg?style=flat-square">
+  <a href="https://www.nuget.org/packages/urban">
+    <img src="https://img.shields.io/nuget/dt/urban.svg?style=flat-square">
   </a>
-  <a href="https://www.nuget.org/packages/gong-wpf-dragdrop">
-    <img src="https://img.shields.io/nuget/v/gong-wpf-dragdrop.svg?style=flat-square">
+  <a href="https://www.nuget.org/packages/urban">
+    <img src="https://img.shields.io/nuget/v/urban.svg?style=flat-square">
   </a>
-  <a href="https://www.nuget.org/packages/gong-wpf-dragdrop">
-    <img src="https://img.shields.io/nuget/vpre/gong-wpf-dragdrop.svg?style=flat-square&label=nuget-pre">
+  <a href="https://www.nuget.org/packages/urban">
+    <img src="https://img.shields.io/nuget/vpre/urban.svg?style=flat-square&label=nuget-pre">
   </a>
   <br />
   <br />
 
 </div>
 
-## Features
+# urban
 
 + Works with MVVM : the logic for the drag and drop can be placed in a ViewModel. No code needs to be placed in code-behind, instead attached properties are used to bind to a drag handler/drop handler in a ViewModel.
 + Works with multiple selections.
@@ -58,7 +58,7 @@
 
 ## Let's get started
 
-- [Building](../../wiki/Building) the `gong-wpf-dragdrop` solution
+- [Building](../../wiki/Building) the `urban` solution
 - [How to...](../../wiki/Usage)
 - [Releases and Release Notes](../../releases)
 - [Release History](../../wiki/Release-History)
@@ -80,7 +80,7 @@ This framework is free and can be used for free, open source and commercial appl
 
 If you use `GongSolutions.WPF.DragDrop` as serious task, and you'd like to honor my work on it, please donate, I'll appreciate it.
 
-Does your company use `GongSolutions.WPF.DragDrop`?  Ask your manager or marketing team if your company would be interested in supporting this project.  Your company's logo can be shown [on GitHub](https://github.com/punker76/gong-wpf-dragdrop#readme) - who doesn't want a little extra exposure?
+Does your company use `GongSolutions.WPF.DragDrop`?  Ask your manager or marketing team if your company would be interested in supporting this project.  Your company's logo can be shown [on GitHub](https://github.com/punker76/urban#readme) - who doesn't want a little extra exposure?
 
 ## In action
 
